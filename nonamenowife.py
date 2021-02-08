@@ -1,6 +1,5 @@
 import random
 from random import randint
-import time
 
 print('''
 \033[0;33m               .----------------. 
